@@ -1,0 +1,12 @@
+.flag {
+     width: 180px;
+     height: 120px;
+     margin: auto;
+     border: 2px solid black;
+
+ }
+
+ p {
+     text-align:center;
+     text-decoration:underline;
+ }
